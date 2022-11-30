@@ -1,0 +1,692 @@
+2021-03-22 13:40:15,976 - Model - INFO - PARAMETER ...
+2021-03-22 13:40:15,977 - Model - INFO - Namespace(batch_size=32, gpu='2', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=False)
+2021-03-22 13:45:50,923 - Model - INFO - The number of test data is: 68
+2021-03-22 13:46:06,501 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2021-03-22 13:54:10,224 - Model - INFO - Mean IoU of Area_5_office_1: 0.5885
+2021-03-22 14:01:33,975 - Model - INFO - Mean IoU of Area_5_office_10: 0.6179
+2021-03-22 14:38:11,357 - Model - INFO - Mean IoU of Area_5_conferenceRoom_3: 0.6024
+2021-03-22 14:59:34,010 - Model - INFO - Mean IoU of Area_5_office_15: 0.5891
+2021-03-22 15:24:52,909 - Model - INFO - Mean IoU of Area_5_lobby_1: 0.7761
+2021-03-22 15:30:55,276 - Model - INFO - Mean IoU of Area_5_office_27: 0.6575
+2021-03-22 16:07:05,579 - Model - INFO - Mean IoU of Area_5_hallway_13: 0.6365
+2021-03-22 16:38:57,175 - Model - INFO - Mean IoU of Area_5_office_41: 0.6261
+2021-03-22 16:57:27,187 - Model - INFO - Mean IoU of Area_5_office_18: 0.6153
+2021-03-22 17:06:25,938 - Model - INFO - Mean IoU of Area_5_office_12: 0.5852
+2021-03-22 17:13:30,382 - Model - INFO - Mean IoU of Area_5_office_28: 0.6707
+2021-03-22 17:21:46,557 - Model - INFO - Mean IoU of Area_5_office_31: 0.6153
+2021-03-22 17:26:49,769 - Model - INFO - Mean IoU of Area_5_office_26: 0.5207
+2021-03-22 17:36:58,881 - Model - INFO - Mean IoU of Area_5_office_35: 0.7640
+2021-03-22 23:59:28,625 - Model - INFO - Mean IoU of Area_5_hallway_2: 0.7175
+2021-03-23 00:14:06,973 - Model - INFO - Mean IoU of Area_5_office_39: 0.6135
+2021-03-23 00:52:12,769 - Model - INFO - Mean IoU of Area_5_office_24: 0.5573
+2021-03-23 01:08:37,853 - Model - INFO - Mean IoU of Area_5_office_14: 0.6230
+2021-03-23 01:11:29,081 - Model - INFO - Mean IoU of Area_5_storage_4: 0.6659
+2021-03-23 01:28:36,731 - Model - INFO - Mean IoU of Area_5_hallway_6: 0.6781
+2021-03-23 02:06:28,342 - Model - INFO - Mean IoU of Area_5_office_19: 0.7059
+2021-03-23 02:14:30,956 - Model - INFO - Mean IoU of Area_5_office_42: 0.6049
+2021-03-23 03:50:57,178 - Model - INFO - Mean IoU of Area_5_office_40: 0.4828
+2021-03-23 03:57:10,565 - Model - INFO - Mean IoU of Area_5_office_4: 0.7075
+2021-03-23 04:04:08,882 - Model - INFO - Mean IoU of Area_5_office_32: 0.6113
+2021-03-23 05:12:29,614 - Model - INFO - Mean IoU of Area_5_office_37: 0.4237
+2021-03-23 05:25:57,774 - Model - INFO - Mean IoU of Area_5_office_36: 0.6645
+2021-03-23 05:30:57,288 - Model - INFO - Mean IoU of Area_5_office_6: 0.6999
+2021-03-23 05:34:10,814 - Model - INFO - Mean IoU of Area_5_hallway_14: 0.7079
+2021-03-23 06:04:14,884 - Model - INFO - Mean IoU of Area_5_office_29: 0.5924
+2021-03-23 06:09:53,963 - Model - INFO - Mean IoU of Area_5_office_3: 0.7578
+2021-03-23 06:15:24,359 - Model - INFO - Mean IoU of Area_5_hallway_4: 0.4651
+2021-03-23 06:20:05,846 - Model - INFO - Mean IoU of Area_5_storage_1: 0.3533
+2021-03-23 06:26:04,559 - Model - INFO - Mean IoU of Area_5_office_11: 0.6504
+2021-03-23 06:32:53,686 - Model - INFO - Mean IoU of Area_5_office_8: 0.6385
+2021-03-23 06:38:59,374 - Model - INFO - Mean IoU of Area_5_office_34: 0.6091
+2021-03-23 07:29:16,087 - Model - INFO - Mean IoU of Area_5_office_21: 0.6285
+2021-03-23 07:36:48,993 - Model - INFO - Mean IoU of Area_5_storage_2: 0.4328
+2021-03-23 07:40:48,011 - Model - INFO - Mean IoU of Area_5_office_9: 0.7193
+2021-03-23 07:42:18,540 - Model - INFO - Mean IoU of Area_5_office_30: 0.8101
+2021-03-23 07:49:04,036 - Model - INFO - Mean IoU of Area_5_hallway_11: 0.8154
+2021-03-23 08:41:39,690 - Model - INFO - Mean IoU of Area_5_conferenceRoom_2: 0.6049
+2021-03-23 08:45:25,196 - Model - INFO - Mean IoU of Area_5_office_5: 0.8352
+2021-03-23 08:52:35,233 - Model - INFO - Mean IoU of Area_5_hallway_12: 0.6916
+2021-03-23 08:59:25,839 - Model - INFO - Mean IoU of Area_5_office_7: 0.6239
+2021-03-23 09:01:18,197 - Model - INFO - Mean IoU of Area_5_hallway_8: 0.6584
+2021-03-23 09:07:32,416 - Model - INFO - Mean IoU of Area_5_office_33: 0.6477
+2021-03-23 09:29:47,860 - Model - INFO - Mean IoU of Area_5_hallway_9: 0.5687
+2021-03-23 10:52:54,462 - Model - INFO - Mean IoU of Area_5_office_38: 0.3907
+2021-03-23 11:24:48,653 - Model - INFO - Mean IoU of Area_5_hallway_10: 0.8178
+2021-03-23 11:38:13,811 - Model - INFO - Mean IoU of Area_5_office_13: 0.6312
+2021-03-23 11:45:05,688 - Model - INFO - Mean IoU of Area_5_WC_2: 0.7661
+2021-03-23 11:53:47,220 - Model - INFO - Mean IoU of Area_5_office_23: 0.6462
+2021-03-23 11:58:07,511 - Model - INFO - Mean IoU of Area_5_pantry_1: 0.7116
+2021-03-23 12:06:09,280 - Model - INFO - Mean IoU of Area_5_office_22: 0.6502
+2021-03-23 12:17:21,391 - Model - INFO - Mean IoU of Area_5_office_17: 0.5784
+2021-03-23 12:26:08,789 - Model - INFO - Mean IoU of Area_5_WC_1: 0.7258
+2021-03-23 12:34:21,005 - Model - INFO - Mean IoU of Area_5_office_2: 0.7176
+2021-03-23 14:53:38,858 - Model - INFO - Mean IoU of Area_5_hallway_5: 0.5241
+2021-03-23 15:09:10,854 - Model - INFO - Mean IoU of Area_5_conferenceRoom_1: 0.5500
+2021-03-23 15:41:32,436 - Model - INFO - Mean IoU of Area_5_hallway_15: 0.5137
+2021-03-23 15:49:09,586 - Model - INFO - Mean IoU of Area_5_office_16: 0.6031
+2021-03-23 16:13:21,947 - Model - INFO - Mean IoU of Area_5_hallway_7: 0.7646
+2021-03-23 16:35:25,771 - Model - INFO - Mean IoU of Area_5_hallway_3: 0.7395
+2021-03-23 16:35:42,819 - Model - INFO - Mean IoU of Area_5_storage_3: 0.5660
+2021-03-23 16:41:52,716 - Model - INFO - Mean IoU of Area_5_office_25: 0.6903
+2021-03-23 16:46:08,458 - Model - INFO - Mean IoU of Area_5_office_20: 0.5930
+2021-03-23 22:45:28,676 - Model - INFO - Mean IoU of Area_5_hallway_1: 0.3561
+2021-03-23 22:45:35,270 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.894 
+class floor         , IoU: 0.977 
+class wall          , IoU: 0.754 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.018 
+class window        , IoU: 0.583 
+class door          , IoU: 0.195 
+class table         , IoU: 0.692 
+class chair         , IoU: 0.790 
+class sofa          , IoU: 0.462 
+class bookcase      , IoU: 0.591 
+class board         , IoU: 0.587 
+class clutter       , IoU: 0.416 
+
+2021-03-23 22:45:35,271 - Model - INFO - eval point avg class IoU: 0.535313
+2021-03-23 22:45:35,271 - Model - INFO - eval whole scene point avg class acc: 0.620289
+2021-03-23 22:45:35,271 - Model - INFO - eval whole scene point accuracy: 0.829893
+2022-09-16 20:19:32,011 - Model - INFO - PARAMETER ...
+2022-09-16 20:19:32,011 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-16 20:20:13,069 - Model - INFO - PARAMETER ...
+2022-09-16 20:20:13,069 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-16 20:20:26,022 - Model - INFO - The number of test data is: 67
+2022-09-16 20:41:43,413 - Model - INFO - PARAMETER ...
+2022-09-16 20:41:43,413 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-16 20:41:56,261 - Model - INFO - The number of test data is: 67
+2022-09-16 20:43:13,961 - Model - INFO - PARAMETER ...
+2022-09-16 20:43:13,962 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-16 20:43:22,445 - Model - INFO - The number of test data is: 67
+2022-09-16 20:44:22,088 - Model - INFO - PARAMETER ...
+2022-09-16 20:44:22,088 - Model - INFO - Namespace(batch_size=32, gpu='1', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-16 20:44:30,322 - Model - INFO - The number of test data is: 67
+2022-09-16 20:45:27,705 - Model - INFO - PARAMETER ...
+2022-09-16 20:45:27,706 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-16 20:45:35,983 - Model - INFO - The number of test data is: 67
+2022-09-17 15:06:43,593 - Model - INFO - PARAMETER ...
+2022-09-17 15:06:43,594 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-17 18:25:39,537 - Model - INFO - PARAMETER ...
+2022-09-17 18:25:39,537 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-17 18:28:33,620 - Model - INFO - PARAMETER ...
+2022-09-17 18:28:33,620 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-17 18:28:48,798 - Model - INFO - The number of test data is: 67
+2022-09-17 18:36:06,029 - Model - INFO - PARAMETER ...
+2022-09-17 18:36:06,029 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-17 18:36:14,450 - Model - INFO - The number of test data is: 67
+2022-09-17 18:37:11,302 - Model - INFO - PARAMETER ...
+2022-09-17 18:37:11,302 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-17 18:37:19,503 - Model - INFO - The number of test data is: 67
+2022-09-17 18:38:35,170 - Model - INFO - PARAMETER ...
+2022-09-17 18:38:35,170 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-17 18:38:43,368 - Model - INFO - The number of test data is: 67
+2022-09-17 20:23:03,598 - Model - INFO - PARAMETER ...
+2022-09-17 20:23:03,598 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-17 20:23:11,775 - Model - INFO - The number of test data is: 67
+2022-09-20 18:30:59,487 - Model - INFO - PARAMETER ...
+2022-09-20 18:30:59,487 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-20 18:31:52,714 - Model - INFO - PARAMETER ...
+2022-09-20 18:31:52,714 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-20 18:32:08,115 - Model - INFO - The number of test data is: 67
+2022-09-20 18:32:10,311 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-20 18:33:36,825 - Model - INFO - Mean IoU of Area_5_office_25: 0.6791
+2022-09-20 18:36:59,048 - Model - INFO - Mean IoU of Area_5_lobby_1: 0.8149
+2022-09-20 18:38:48,172 - Model - INFO - Mean IoU of Area_5_office_32: 0.6030
+2022-09-20 18:40:37,318 - Model - INFO - Mean IoU of Area_5_hallway_11: 0.9085
+2022-09-20 18:42:14,432 - Model - INFO - Mean IoU of Area_5_office_6: 0.7611
+2022-09-20 18:43:58,622 - Model - INFO - Mean IoU of Area_5_office_11: 0.7452
+2022-09-20 18:45:29,043 - Model - INFO - Mean IoU of Area_5_office_27: 0.7089
+2022-09-20 18:46:57,085 - Model - INFO - Mean IoU of Area_5_office_9: 0.6719
+2022-09-20 18:48:25,721 - Model - INFO - Mean IoU of Area_5_storage_1: 0.3709
+2022-09-20 18:50:08,883 - Model - INFO - Mean IoU of Area_5_office_16: 0.5942
+2022-09-20 18:52:44,027 - Model - INFO - Mean IoU of Area_5_office_36: 0.6851
+2022-09-20 18:55:35,210 - Model - INFO - Mean IoU of Area_5_office_18: 0.6720
+2022-09-20 19:13:45,057 - Model - INFO - Mean IoU of Area_5_hallway_2: 0.7927
+2022-09-20 19:16:44,019 - Model - INFO - Mean IoU of Area_5_office_14: 0.6634
+2022-09-20 19:18:25,180 - Model - INFO - Mean IoU of Area_5_office_1: 0.5849
+2022-09-20 19:20:14,581 - Model - INFO - Mean IoU of Area_5_office_7: 0.6759
+2022-09-20 19:23:19,428 - Model - INFO - Mean IoU of Area_5_office_15: 0.6355
+2022-09-20 19:24:42,064 - Model - INFO - Mean IoU of Area_5_pantry_1: 0.7172
+2022-09-20 19:25:43,212 - Model - INFO - Mean IoU of Area_5_hallway_8: 0.6891
+2022-09-20 19:27:51,009 - Model - INFO - Mean IoU of Area_5_office_17: 0.6151
+2022-09-20 19:28:07,075 - Model - INFO - Mean IoU of Area_5_storage_3: 0.5126
+2022-09-20 19:31:53,882 - Model - INFO - Mean IoU of Area_5_conferenceRoom_3: 0.6542
+2022-09-20 19:33:15,522 - Model - INFO - Mean IoU of Area_5_WC_2: 0.7886
+2022-09-20 19:45:45,234 - Model - INFO - Mean IoU of Area_5_hallway_1: 0.3487
+2022-09-20 19:46:47,728 - Model - INFO - Mean IoU of Area_5_office_20: 0.5794
+2022-09-20 19:50:43,690 - Model - INFO - Mean IoU of Area_5_office_19: 0.6624
+2022-09-20 19:52:20,129 - Model - INFO - Mean IoU of Area_5_office_4: 0.7392
+2022-09-20 19:53:53,559 - Model - INFO - Mean IoU of Area_5_office_31: 0.6414
+2022-09-20 19:55:18,538 - Model - INFO - Mean IoU of Area_5_WC_1: 0.8343
+2022-09-20 19:58:52,862 - Model - INFO - Mean IoU of Area_5_office_24: 0.5799
+2022-09-20 20:01:38,588 - Model - INFO - Mean IoU of Area_5_hallway_9: 0.5679
+2022-09-20 20:02:40,276 - Model - INFO - Mean IoU of Area_5_storage_4: 0.6945
+2022-09-20 20:04:11,777 - Model - INFO - Mean IoU of Area_5_office_10: 0.7022
+2022-09-20 20:05:53,033 - Model - INFO - Mean IoU of Area_5_office_35: 0.7824
+2022-09-20 20:07:35,937 - Model - INFO - Mean IoU of Area_5_office_42: 0.6638
+2022-09-20 20:09:07,928 - Model - INFO - Mean IoU of Area_5_office_5: 0.8155
+2022-09-20 20:12:56,883 - Model - INFO - Mean IoU of Area_5_hallway_13: 0.6522
+2022-09-20 20:14:12,914 - Model - INFO - Mean IoU of Area_5_hallway_14: 0.7444
+2022-09-20 20:16:02,412 - Model - INFO - Mean IoU of Area_5_office_2: 0.7281
+2022-09-20 20:17:47,581 - Model - INFO - Mean IoU of Area_5_office_34: 0.6022
+2022-09-20 20:20:38,448 - Model - INFO - Mean IoU of Area_5_hallway_3: 0.7194
+2022-09-20 20:22:09,579 - Model - INFO - Mean IoU of Area_5_office_26: 0.6257
+2022-09-20 20:32:47,249 - Model - INFO - Mean IoU of Area_5_hallway_5: 0.7587
+2022-09-20 20:40:17,215 - Model - INFO - Mean IoU of Area_5_office_40: 0.5639
+2022-09-20 20:42:04,069 - Model - INFO - Mean IoU of Area_5_office_8: 0.7262
+2022-09-20 20:45:22,317 - Model - INFO - Mean IoU of Area_5_office_41: 0.6565
+2022-09-20 20:48:11,549 - Model - INFO - Mean IoU of Area_5_hallway_7: 0.7823
+2022-09-20 20:49:36,775 - Model - INFO - Mean IoU of Area_5_office_28: 0.7275
+2022-09-20 20:51:19,751 - Model - INFO - Mean IoU of Area_5_storage_2: 0.3557
+2022-09-20 20:52:55,512 - Model - INFO - Mean IoU of Area_5_office_33: 0.6730
+2022-09-20 20:56:38,540 - Model - INFO - Mean IoU of Area_5_office_29: 0.6047
+2022-09-20 20:58:05,939 - Model - INFO - Mean IoU of Area_5_office_22: 0.7277
+2022-09-20 21:00:18,148 - Model - INFO - Mean IoU of Area_5_conferenceRoom_1: 0.6166
+2022-09-20 21:05:27,406 - Model - INFO - Mean IoU of Area_5_office_21: 0.6458
+2022-09-20 21:07:06,961 - Model - INFO - Mean IoU of Area_5_office_23: 0.6578
+2022-09-20 21:08:43,977 - Model - INFO - Mean IoU of Area_5_office_12: 0.6746
+2022-09-20 21:10:43,338 - Model - INFO - Mean IoU of Area_5_office_13: 0.6635
+2022-09-20 21:17:17,217 - Model - INFO - Mean IoU of Area_5_office_37: 0.4764
+2022-09-20 21:24:18,880 - Model - INFO - Mean IoU of Area_5_office_38: 0.4226
+2022-09-20 21:26:33,354 - Model - INFO - Mean IoU of Area_5_office_39: 0.6415
+2022-09-20 21:28:02,618 - Model - INFO - Mean IoU of Area_5_office_3: 0.7904
+2022-09-20 21:28:48,460 - Model - INFO - Mean IoU of Area_5_office_30: 0.8578
+2022-09-20 21:33:53,495 - Model - INFO - Mean IoU of Area_5_conferenceRoom_2: 0.6468
+2022-09-20 21:37:11,852 - Model - INFO - Mean IoU of Area_5_hallway_15: 0.4901
+2022-09-20 21:40:29,583 - Model - INFO - Mean IoU of Area_5_hallway_10: 0.8749
+2022-09-20 21:42:00,956 - Model - INFO - Mean IoU of Area_5_hallway_4: 0.5364
+2022-09-20 21:43:39,930 - Model - INFO - Mean IoU of Area_5_hallway_12: 0.8204
+2022-09-20 21:43:42,645 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.895 
+class floor         , IoU: 0.981 
+class wall          , IoU: 0.742 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.081 
+class window        , IoU: 0.613 
+class door          , IoU: 0.258 
+class table         , IoU: 0.677 
+class chair         , IoU: 0.791 
+class sofa          , IoU: 0.507 
+class bookcase      , IoU: 0.663 
+class board         , IoU: 0.627 
+class clutter       , IoU: 0.479 
+
+2022-09-20 21:43:42,645 - Model - INFO - eval point avg class IoU: 0.562691
+2022-09-20 21:43:42,646 - Model - INFO - eval whole scene point avg class acc: 0.647776
+2022-09-20 21:43:42,646 - Model - INFO - eval whole scene point accuracy: 0.838406
+2022-09-26 20:07:38,900 - Model - INFO - PARAMETER ...
+2022-09-26 20:07:57,055 - Model - INFO - PARAMETER ...
+2022-09-26 21:07:34,519 - Model - INFO - PARAMETER ...
+2022-09-26 21:07:34,519 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-26 21:09:58,752 - Model - INFO - PARAMETER ...
+2022-09-26 21:09:58,752 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-26 21:22:11,395 - Model - INFO - PARAMETER ...
+2022-09-26 21:22:11,396 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-26 21:22:11,932 - Model - INFO - The number of test data is: 1
+2022-09-26 21:22:14,142 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-26 21:23:15,060 - Model - INFO - PARAMETER ...
+2022-09-26 21:23:15,060 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-26 21:23:15,359 - Model - INFO - The number of test data is: 1
+2022-09-26 21:23:17,466 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-27 20:18:55,493 - Model - INFO - PARAMETER ...
+2022-09-27 20:18:55,494 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-27 20:20:07,559 - Model - INFO - PARAMETER ...
+2022-09-27 20:20:07,559 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-27 20:20:07,643 - Model - INFO - The number of test data is: 1
+2022-09-27 20:20:09,729 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-27 20:21:38,193 - Model - INFO - Mean IoU of Area_5_office_16: 0.5943
+2022-09-27 20:21:40,740 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.980 
+class floor         , IoU: 0.983 
+class wall          , IoU: 0.795 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: nan 
+class door          , IoU: 0.105 
+class table         , IoU: 0.785 
+class chair         , IoU: 0.888 
+class sofa          , IoU: nan 
+class bookcase      , IoU: 0.284 
+class board         , IoU: 0.568 
+class clutter       , IoU: 0.556 
+
+2022-09-27 20:21:40,740 - Model - INFO - eval point avg class IoU: 0.457191
+2022-09-27 20:21:40,740 - Model - INFO - eval whole scene point avg class acc: 0.505200
+2022-09-27 20:21:40,740 - Model - INFO - eval whole scene point accuracy: 0.866400
+2022-09-27 20:23:56,387 - Model - INFO - PARAMETER ...
+2022-09-27 20:23:56,387 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-27 20:23:56,474 - Model - INFO - The number of test data is: 1
+2022-09-27 20:23:58,543 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-27 20:25:25,882 - Model - INFO - Mean IoU of Area_5_demoo: 0.5922
+2022-09-27 20:25:28,444 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.981 
+class floor         , IoU: 0.983 
+class wall          , IoU: 0.794 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: nan 
+class door          , IoU: 0.107 
+class table         , IoU: 0.785 
+class chair         , IoU: 0.885 
+class sofa          , IoU: nan 
+class bookcase      , IoU: 0.282 
+class board         , IoU: 0.546 
+class clutter       , IoU: 0.558 
+
+2022-09-27 20:25:28,445 - Model - INFO - eval point avg class IoU: 0.455526
+2022-09-27 20:25:28,445 - Model - INFO - eval whole scene point avg class acc: 0.503590
+2022-09-27 20:25:28,445 - Model - INFO - eval whole scene point accuracy: 0.866100
+2022-09-27 20:43:08,088 - Model - INFO - PARAMETER ...
+2022-09-27 20:43:08,088 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-27 20:51:50,085 - Model - INFO - PARAMETER ...
+2022-09-27 20:51:50,085 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-27 21:17:37,391 - Model - INFO - PARAMETER ...
+2022-09-27 21:17:37,391 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-27 21:17:37,617 - Model - INFO - The number of test data is: 1
+2022-09-27 21:17:39,673 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-27 21:20:39,767 - Model - INFO - Mean IoU of Area_5_demo1: 0.1383
+2022-09-27 21:20:46,851 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.138 
+class wall          , IoU: 0.000 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: nan 
+class clutter       , IoU: 0.000 
+
+2022-09-27 21:20:46,852 - Model - INFO - eval point avg class IoU: 0.010640
+2022-09-27 21:20:46,852 - Model - INFO - eval whole scene point avg class acc: 0.010640
+2022-09-27 21:20:46,852 - Model - INFO - eval whole scene point accuracy: 0.138326
+2022-09-28 20:25:03,855 - Model - INFO - PARAMETER ...
+2022-09-28 20:25:03,855 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-09-28 20:25:03,974 - Model - INFO - The number of test data is: 1
+2022-09-28 20:25:06,073 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-05 20:13:57,119 - Model - INFO - PARAMETER ...
+2022-10-05 20:13:57,121 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-05 20:13:57,252 - Model - INFO - The number of test data is: 1
+2022-10-05 20:14:01,015 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-05 20:16:45,080 - Model - INFO - Mean IoU of Area_5_lobby_1: 0.8128
+2022-10-05 20:16:49,054 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.989 
+class floor         , IoU: 0.976 
+class wall          , IoU: 0.879 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.874 
+class chair         , IoU: 0.849 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: 0.000 
+class clutter       , IoU: 0.310 
+
+2022-10-05 20:16:49,054 - Model - INFO - eval point avg class IoU: 0.375116
+2022-10-05 20:16:49,054 - Model - INFO - eval whole scene point avg class acc: 0.394409
+2022-10-05 20:16:49,054 - Model - INFO - eval whole scene point accuracy: 0.940152
+2022-10-17 22:02:47,979 - Model - INFO - PARAMETER ...
+2022-10-17 22:02:47,981 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-17 22:02:47,981 - Model - INFO - The number of test data is: 0
+2022-10-17 22:02:51,933 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-17 22:07:34,960 - Model - INFO - PARAMETER ...
+2022-10-17 22:07:34,960 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-17 22:07:34,961 - Model - INFO - The number of test data is: 0
+2022-10-17 22:07:37,052 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-17 22:29:38,560 - Model - INFO - PARAMETER ...
+2022-10-17 22:29:38,560 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-17 22:29:40,513 - Model - INFO - The number of test data is: 1
+2022-10-17 22:29:42,583 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 10:36:53,896 - Model - INFO - PARAMETER ...
+2022-10-18 10:36:53,898 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 10:36:57,411 - Model - INFO - The number of test data is: 1
+2022-10-18 10:37:01,584 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 11:32:44,775 - Model - INFO - PARAMETER ...
+2022-10-18 11:32:44,777 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 11:32:48,289 - Model - INFO - The number of test data is: 1
+2022-10-18 11:32:52,114 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 11:39:42,125 - Model - INFO - PARAMETER ...
+2022-10-18 11:39:42,125 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=1024, num_votes=3, test_area=5, visual=True)
+2022-10-18 11:39:44,080 - Model - INFO - The number of test data is: 1
+2022-10-18 11:39:46,107 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 11:43:24,286 - Model - INFO - PARAMETER ...
+2022-10-18 11:43:24,286 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 11:43:24,373 - Model - INFO - The number of test data is: 1
+2022-10-18 11:43:26,381 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 11:44:15,492 - Model - INFO - PARAMETER ...
+2022-10-18 11:44:15,492 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 11:44:15,578 - Model - INFO - The number of test data is: 1
+2022-10-18 11:44:17,576 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 11:45:32,474 - Model - INFO - Mean IoU of Area_5_office_5: 0.8127
+2022-10-18 11:45:35,203 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.959 
+class floor         , IoU: 0.982 
+class wall          , IoU: 0.775 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: 0.868 
+class door          , IoU: 0.648 
+class table         , IoU: 0.617 
+class chair         , IoU: 0.928 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.778 
+class board         , IoU: nan 
+class clutter       , IoU: 0.759 
+
+2022-10-18 11:45:35,204 - Model - INFO - eval point avg class IoU: 0.562616
+2022-10-18 11:45:35,204 - Model - INFO - eval whole scene point avg class acc: 0.617144
+2022-10-18 11:45:35,204 - Model - INFO - eval whole scene point accuracy: 0.887341
+2022-10-18 11:49:53,529 - Model - INFO - PARAMETER ...
+2022-10-18 11:49:53,529 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 11:49:54,171 - Model - INFO - The number of test data is: 1
+2022-10-18 11:49:56,148 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 11:50:55,033 - Model - INFO - PARAMETER ...
+2022-10-18 11:50:55,033 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 11:50:55,683 - Model - INFO - The number of test data is: 1
+2022-10-18 11:50:57,698 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 12:12:45,319 - Model - INFO - Mean IoU of Area_5_lobby_1: 0.4568
+2022-10-18 12:13:05,626 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.457 
+class wall          , IoU: 0.000 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: 0.000 
+class clutter       , IoU: 0.000 
+
+2022-10-18 12:13:05,627 - Model - INFO - eval point avg class IoU: 0.035137
+2022-10-18 12:13:05,627 - Model - INFO - eval whole scene point avg class acc: 0.035137
+2022-10-18 12:13:05,627 - Model - INFO - eval whole scene point accuracy: 0.456776
+2022-10-18 13:55:59,310 - Model - INFO - PARAMETER ...
+2022-10-18 13:55:59,310 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 13:55:59,329 - Model - INFO - The number of test data is: 1
+2022-10-18 13:56:01,348 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 13:56:59,123 - Model - INFO - Mean IoU of Area_5_boardroom_1: 0.4632
+2022-10-18 13:56:59,580 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.463 
+class wall          , IoU: 0.000 
+class beam          , IoU: nan 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: 0.000 
+class clutter       , IoU: 0.000 
+
+2022-10-18 13:56:59,580 - Model - INFO - eval point avg class IoU: 0.035629
+2022-10-18 13:56:59,581 - Model - INFO - eval whole scene point avg class acc: 0.035629
+2022-10-18 13:56:59,581 - Model - INFO - eval whole scene point accuracy: 0.463182
+2022-10-18 14:02:58,834 - Model - INFO - PARAMETER ...
+2022-10-18 14:02:58,834 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 14:02:58,841 - Model - INFO - The number of test data is: 1
+2022-10-18 14:03:00,916 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 14:03:56,900 - Model - INFO - Mean IoU of Area_5_boardroom_1: 0.5067
+2022-10-18 14:03:57,010 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.507 
+class wall          , IoU: 0.000 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: nan 
+class clutter       , IoU: 0.000 
+
+2022-10-18 14:03:57,010 - Model - INFO - eval point avg class IoU: 0.038980
+2022-10-18 14:03:57,010 - Model - INFO - eval whole scene point avg class acc: 0.038980
+2022-10-18 14:03:57,010 - Model - INFO - eval whole scene point accuracy: 0.506745
+2022-10-18 17:38:29,917 - Model - INFO - PARAMETER ...
+2022-10-18 17:38:29,917 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 17:38:29,924 - Model - INFO - The number of test data is: 1
+2022-10-18 17:38:31,942 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 17:42:11,018 - Model - INFO - PARAMETER ...
+2022-10-18 17:42:11,019 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 17:42:11,024 - Model - INFO - The number of test data is: 1
+2022-10-18 17:42:13,048 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 17:43:08,342 - Model - INFO - Mean IoU of Area_5_boardroom_2: 0.6369
+2022-10-18 17:43:08,391 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.637 
+class wall          , IoU: 0.000 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: nan 
+class clutter       , IoU: 0.000 
+
+2022-10-18 17:43:08,391 - Model - INFO - eval point avg class IoU: 0.048993
+2022-10-18 17:43:08,391 - Model - INFO - eval whole scene point avg class acc: 0.048993
+2022-10-18 17:43:08,391 - Model - INFO - eval whole scene point accuracy: 0.636906
+2022-10-18 18:10:50,351 - Model - INFO - PARAMETER ...
+2022-10-18 18:10:50,351 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 18:10:50,359 - Model - INFO - The number of test data is: 1
+2022-10-18 18:10:52,392 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-18 18:12:46,406 - Model - INFO - Mean IoU of Area_5_test_1.npy: 0.2934
+2022-10-18 18:12:46,561 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.293 
+class wall          , IoU: 0.000 
+class beam          , IoU: nan 
+class column        , IoU: nan 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: nan 
+class clutter       , IoU: 0.000 
+
+2022-10-18 18:12:46,562 - Model - INFO - eval point avg class IoU: 0.022570
+2022-10-18 18:12:46,562 - Model - INFO - eval whole scene point avg class acc: 0.022570
+2022-10-18 18:12:46,562 - Model - INFO - eval whole scene point accuracy: 0.293415
+2022-10-18 18:27:11,293 - Model - INFO - PARAMETER ...
+2022-10-18 18:27:11,294 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 18:27:11,302 - Model - INFO - The number of test data is: 1
+2022-10-18 18:27:41,128 - Model - INFO - PARAMETER ...
+2022-10-18 18:27:41,128 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-18 18:27:41,136 - Model - INFO - The number of test data is: 1
+2022-10-25 19:13:10,724 - Model - INFO - PARAMETER ...
+2022-10-25 19:13:10,725 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-25 19:13:11,376 - Model - INFO - The number of test data is: 1
+2022-10-25 19:15:10,979 - Model - INFO - PARAMETER ...
+2022-10-25 19:15:10,979 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-25 19:15:11,097 - Model - INFO - The number of test data is: 1
+2022-10-25 19:20:55,446 - Model - INFO - PARAMETER ...
+2022-10-25 19:20:55,446 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-25 19:20:56,210 - Model - INFO - The number of test data is: 1
+2022-10-25 19:24:16,131 - Model - INFO - PARAMETER ...
+2022-10-25 19:24:16,131 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-25 19:24:16,779 - Model - INFO - The number of test data is: 1
+2022-10-25 19:25:29,574 - Model - INFO - PARAMETER ...
+2022-10-25 19:25:29,574 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-25 19:25:30,224 - Model - INFO - The number of test data is: 1
+2022-10-25 19:25:32,323 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-25 19:47:20,537 - Model - INFO - Mean IoU of Area_5_test_1: 0.4570
+2022-10-25 19:47:41,150 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.457 
+class wall          , IoU: 0.000 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: 0.000 
+class clutter       , IoU: 0.000 
+
+2022-10-25 19:47:41,150 - Model - INFO - eval point avg class IoU: 0.035153
+2022-10-25 19:47:41,150 - Model - INFO - eval whole scene point avg class acc: 0.035153
+2022-10-25 19:47:41,150 - Model - INFO - eval whole scene point accuracy: 0.456984
+2022-10-25 19:52:14,546 - Model - INFO - PARAMETER ...
+2022-10-25 19:52:14,546 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-25 19:52:14,686 - Model - INFO - The number of test data is: 1
+2022-10-25 19:52:16,720 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-25 19:54:40,500 - Model - INFO - Mean IoU of Area_5_living_1: 0.5445
+2022-10-25 19:54:44,883 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.544 
+class wall          , IoU: 0.000 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: nan 
+class clutter       , IoU: 0.000 
+
+2022-10-25 19:54:44,883 - Model - INFO - eval point avg class IoU: 0.041883
+2022-10-25 19:54:44,883 - Model - INFO - eval whole scene point avg class acc: 0.041883
+2022-10-25 19:54:44,883 - Model - INFO - eval whole scene point accuracy: 0.544483
+2022-10-31 15:29:42,100 - Model - INFO - PARAMETER ...
+2022-10-31 15:29:42,101 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-31 15:29:42,339 - Model - INFO - The number of test data is: 1
+2022-10-31 15:30:14,692 - Model - INFO - PARAMETER ...
+2022-10-31 15:30:14,692 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-31 15:30:14,840 - Model - INFO - The number of test data is: 1
+2022-10-31 15:30:16,938 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-31 15:33:37,590 - Model - INFO - PARAMETER ...
+2022-10-31 15:33:37,590 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-10-31 15:33:38,007 - Model - INFO - The number of test data is: 2
+2022-10-31 15:33:40,087 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-10-31 15:43:07,883 - Model - INFO - Mean IoU of Area_5_boardroom_1: 0.5983
+2022-10-31 15:45:38,181 - Model - INFO - Mean IoU of Area_5_living_1: 0.5687
+2022-10-31 15:45:42,995 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.589 
+class wall          , IoU: 0.000 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: nan 
+class clutter       , IoU: 0.000 
+
+2022-10-31 15:45:42,995 - Model - INFO - eval point avg class IoU: 0.045270
+2022-10-31 15:45:42,995 - Model - INFO - eval whole scene point avg class acc: 0.045270
+2022-10-31 15:45:42,995 - Model - INFO - eval whole scene point accuracy: 0.588510
+2022-11-01 22:59:39,960 - Model - INFO - PARAMETER ...
+2022-11-01 22:59:39,962 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-11-01 22:59:40,664 - Model - INFO - The number of test data is: 2
+2022-11-01 22:59:44,867 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-11-01 23:09:10,319 - Model - INFO - Mean IoU of Area_5_boardroom_1: 0.5226
+2022-11-01 23:11:39,938 - Model - INFO - Mean IoU of Area_5_living_1: 0.5246
+2022-11-01 23:11:44,461 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.523 
+class wall          , IoU: 0.000 
+class beam          , IoU: nan 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: nan 
+class clutter       , IoU: 0.000 
+
+2022-11-01 23:11:44,461 - Model - INFO - eval point avg class IoU: 0.040251
+2022-11-01 23:11:44,461 - Model - INFO - eval whole scene point avg class acc: 0.040251
+2022-11-01 23:11:44,461 - Model - INFO - eval whole scene point accuracy: 0.523267
+2022-11-15 18:50:33,545 - Model - INFO - PARAMETER ...
+2022-11-15 18:50:33,547 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-11-15 18:50:33,937 - Model - INFO - The number of test data is: 1
+2022-11-15 18:50:37,773 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-11-15 19:36:31,036 - Model - INFO - Mean IoU of Area_5_lab_1: 0.1731
+2022-11-15 19:36:43,513 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.173 
+class wall          , IoU: 0.000 
+class beam          , IoU: nan 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: nan 
+class clutter       , IoU: 0.000 
+
+2022-11-15 19:36:43,513 - Model - INFO - eval point avg class IoU: 0.013313
+2022-11-15 19:36:43,513 - Model - INFO - eval whole scene point avg class acc: 0.013313
+2022-11-15 19:36:43,513 - Model - INFO - eval whole scene point accuracy: 0.173070
+2022-11-17 18:15:21,746 - Model - INFO - PARAMETER ...
+2022-11-17 18:15:21,747 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-11-17 18:15:21,865 - Model - INFO - The number of test data is: 1
+2022-11-17 18:15:25,702 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-11-17 18:16:06,353 - Model - INFO - PARAMETER ...
+2022-11-17 18:16:06,353 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-11-17 18:16:06,485 - Model - INFO - The number of test data is: 1
+2022-11-17 18:16:08,967 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-11-17 18:16:19,309 - Model - INFO - PARAMETER ...
+2022-11-17 18:16:19,309 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-11-17 18:16:19,439 - Model - INFO - The number of test data is: 1
+2022-11-17 18:16:21,906 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-11-17 18:22:10,405 - Model - INFO - PARAMETER ...
+2022-11-17 18:22:10,405 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-11-17 18:22:10,529 - Model - INFO - The number of test data is: 1
+2022-11-17 18:22:12,713 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-11-17 18:23:07,079 - Model - INFO - PARAMETER ...
+2022-11-17 18:23:07,079 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-11-17 18:23:07,196 - Model - INFO - The number of test data is: 1
+2022-11-17 18:23:09,287 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-11-17 19:05:06,897 - Model - INFO - PARAMETER ...
+2022-11-17 19:05:06,898 - Model - INFO - Namespace(batch_size=32, gpu='0', log_dir='pointnet2_sem_seg', num_point=4096, num_votes=3, test_area=5, visual=True)
+2022-11-17 19:05:07,283 - Model - INFO - The number of test data is: 1
+2022-11-17 19:05:09,357 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-11-17 19:50:37,771 - Model - INFO - Mean IoU of Area_5_lab_1: 0.1732
+2022-11-17 19:50:50,400 - Model - INFO - ------- IoU --------
+class ceiling       , IoU: 0.000 
+class floor         , IoU: 0.173 
+class wall          , IoU: 0.000 
+class beam          , IoU: 0.000 
+class column        , IoU: 0.000 
+class window        , IoU: 0.000 
+class door          , IoU: 0.000 
+class table         , IoU: 0.000 
+class chair         , IoU: 0.000 
+class sofa          , IoU: 0.000 
+class bookcase      , IoU: 0.000 
+class board         , IoU: nan 
+class clutter       , IoU: 0.000 
+
+2022-11-17 19:50:50,400 - Model - INFO - eval point avg class IoU: 0.013324
+2022-11-17 19:50:50,400 - Model - INFO - eval whole scene point avg class acc: 0.013324
+2022-11-17 19:50:50,400 - Model - INFO - eval whole scene point accuracy: 0.173213
