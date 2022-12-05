@@ -22,6 +22,7 @@ def convert_ply(input_path, output_path):
 np.set_printoptions(suppress=True) # 取消默认科学计数法，open3d无法读取科学计数法表示
 plyfile=sys.argv[1]
 outfile=sys.argv[2]
+plyname = plyfile
 plyfile2='./input/temp.ply'
 plyfile='./input/'+plyfile+'.ply'
 outfiletxt='./input/'+outfile + '.txt'
@@ -70,7 +71,7 @@ os.remove("./input/temp.ply")
 
 # mmd3d or pointnet2
 print('==============================================================================\nmmd3d or pointnet2\n==============================================================================')
-os.system("python ./mmdetection3d/demo/pc_seg_demo.py ./mmdetection3d/demo/data/s3dis/lab.bin ./mmdetection3d/configs/pointnet2/pointnet2_ssg_16x2_cosine_200e_scannet_seg-3d-20class.py ./mmdetection3d/checkpoints/pointnet2_ssg_16x2_cosine_200e_scannet_seg-3d-20class_20210514_143644-ee73704a.pth")
+os.system("python ./mmdetection3d/demo/pc_seg_demo.py ./mmdetection3d/demo/data/s3dis/"+plyname+".bin ./mmdetection3d/configs/pointnet2/pointnet2_ssg_16x2_cosine_200e_scannet_seg-3d-20class.py ./mmdetection3d/checkpoints/pointnet2_ssg_16x2_cosine_200e_scannet_seg-3d-20class_20210514_143644-ee73704a.pth")
 
 #class_segment
 print('==============================================================================\nclass_segment\n==============================================================================')
